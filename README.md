@@ -15,7 +15,9 @@
 # 👩‍💻 **Tecnologias Usadas**
 
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/113942221/211683012-c76dcf55-a359-46d9-b7de-5b0792025e80.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/113942221/212450260-6a89ee48-cb48-4f10-84a2-5ebe012aee68.png" alt="Html ícones criados por Freepik - Flaticon" >
+<img width="200" src="https://user-images.githubusercontent.com/113942221/212450216-c16c1bdb-a374-43ac-b97c-153c8abc3edd.png" alt="Css ícones criados por Pixel perfect - Flaticon" >
+  
 </p>
 
 # 🌐 **Página do Projeto**
@@ -23,3 +25,4 @@
 
 # 🎨 **Modelo no Figma**
 https://www.figma.com/file/46Z4p4OEktugSBjvt7Gx3u/projeto-pessoal?node-id=3%3A57&t=BfdU2PFt0s1vYZra-0
+

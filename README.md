@@ -1,6 +1,6 @@
 # araujoeduarda.github.io
 
-                                                                 Meu Portólio Profissional 👩🏼‍💻📚
+                                                           Meu Portólio Profissional 👩🏼‍💻📚
                                                                     
                                                                     
 # 🔎 **Sobre**

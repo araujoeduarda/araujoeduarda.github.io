@@ -1,16 +1,26 @@
 # araujoeduarda.github.io
 
-                                                                    Meu Portólio Profissional 👩🏼‍💻📚
+                                                                 Meu Portólio Profissional 👩🏼‍💻📚
                                                                     
                                                                     
 # 🔎 **Sobre**
+
   <p><strong>Desenvolvi este portfólio profissional que contém todos os meus projetos feitos até aqui.</strong><p>
    <h3 align="center">
     <img src="https://user-images.githubusercontent.com/113942221/212449883-c94a86bb-8268-4a46-8218-1558e43a3902.png" width="300" height="250" alt="Header">
     <img src="https://user-images.githubusercontent.com/113942221/212449910-c0e29dd1-7cd5-4a6d-95f5-7dc83ac868fe.png" width="300" height="250" alt="Projetos">
-    <img src="(https://user-images.githubusercontent.com/113942221/212449921-44152c03-534f-4468-81e8-7c09ad8d514e.png" width="300" height="250" alt="Formacao">
-     <img src="(https://user-images.githubusercontent.com/113942221/212449943-0f62b980-ed07-4efd-94fa-d63322d43738.png" width="300" height="250" alt="Site Inteiro">
+    <img src="https://user-images.githubusercontent.com/113942221/212449999-c55dc0c7-3f0e-4b55-9b14-8b5bfea10679.png" width="300" height="250" alt="Formacao">
+    <img src="https://user-images.githubusercontent.com/113942221/212449943-0f62b980-ed07-4efd-94fa-d63322d43738.png" width="300" height="250" alt="Site Inteiro">
 </h3>
 
+# 👩‍💻 **Tecnologias Usadas**
 
+<p align="center">
+<img width="400" src="https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png">
+</p>
 
+# 🌐 **Página do Projeto**
+ Clique Aqui -> [Portfólio](https://araujoeduarda.github.io/)
+
+# 🎨 **Modelo no Figma**
+https://www.figma.com/file/46Z4p4OEktugSBjvt7Gx3u/projeto-pessoal?node-id=3%3A57&t=BfdU2PFt0s1vYZra-0

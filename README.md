@@ -24,5 +24,5 @@
  Clique Aqui -> [Portfólio](https://araujoeduarda.github.io/)
 
 # 🎨 **Modelo no Figma**
-https://www.figma.com/file/46Z4p4OEktugSBjvt7Gx3u/projeto-pessoal?node-id=3%3A57&t=BfdU2PFt0s1vYZra-0
+   https://www.figma.com/file/46Z4p4OEktugSBjvt7Gx3u/projeto-pessoal?node-id=3%3A57&t=BfdU2PFt0s1vYZra-0
 

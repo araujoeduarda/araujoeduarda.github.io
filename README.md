@@ -16,7 +16,7 @@
 # 👩‍💻 **Tecnologias Usadas**
 
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/113942221/211216650-01e41705-7f17-47c6-b761-e283227a2bdf.png">
+<img width="400" src="https://user-images.githubusercontent.com/113942221/211683012-c76dcf55-a359-46d9-b7de-5b0792025e80.jpg">
 </p>
 
 # 🌐 **Página do Projeto**

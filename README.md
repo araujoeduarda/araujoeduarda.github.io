@@ -10,7 +10,6 @@
     <img src="https://user-images.githubusercontent.com/113942221/212449883-c94a86bb-8268-4a46-8218-1558e43a3902.png" width="300" height="250" alt="Header">
     <img src="https://user-images.githubusercontent.com/113942221/212449910-c0e29dd1-7cd5-4a6d-95f5-7dc83ac868fe.png" width="300" height="250" alt="Projetos">
     <img src="https://user-images.githubusercontent.com/113942221/212449999-c55dc0c7-3f0e-4b55-9b14-8b5bfea10679.png" width="300" height="250" alt="Formacao">
-    <img src="https://user-images.githubusercontent.com/113942221/212449943-0f62b980-ed07-4efd-94fa-d63322d43738.png" width="300" height="250" alt="Site Inteiro">
 </h3>
 
 # 👩‍💻 **Tecnologias Usadas**

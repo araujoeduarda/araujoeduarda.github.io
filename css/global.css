@@ -1,7 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
-
+h3 {
+  display: inline;
+}
 body {
   font-family: "Fira Sans", Arial, sans-serif;
   margin: 0px;

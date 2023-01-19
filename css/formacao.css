@@ -66,6 +66,9 @@
 .faculdade:hover {
   transform: scale(1.01);
   cursor: default;
+  transition: 1.4s;
+  color: #141414;
+  background-color: #ffffff;
 }
 .faculdade img {
   height: 90px;

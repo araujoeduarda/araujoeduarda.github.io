@@ -3,8 +3,8 @@
   padding: 40px 20px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 100px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 70px;
 }
 .experiencia .subtitulo {
   color: #c0c0c6;
@@ -23,8 +23,12 @@
   color: #141414;
 }
 
+.container-flex {
+  display: flex;
+  gap: 300px;
+}
+
 .projetos {
-  grid-column: 2;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px 20px;

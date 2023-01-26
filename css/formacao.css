@@ -66,7 +66,7 @@
 .faculdade:hover {
   transform: scale(1.01);
   cursor: default;
-  transition: 1.4s;
+  transition: 2.3s;
   color: #141414;
   background-color: #ffffff;
 }

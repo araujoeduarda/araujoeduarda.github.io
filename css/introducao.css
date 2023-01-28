@@ -28,7 +28,7 @@
 
 .intro p {
   font-size: 1.5rem;
-  color: #464545;
+  color: var(--introtxt);
 }
 
 .triade {

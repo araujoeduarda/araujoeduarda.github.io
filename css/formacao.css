@@ -133,6 +133,10 @@
   background: url("../img/cursos.svg") no-repeat center center;
 }
 
+.idiomas ul {
+  padding-top: 22px;
+}
+
 .idiomas h3::before {
   background: url("../img/idiomas.svg") no-repeat center center;
 }

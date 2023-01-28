@@ -45,7 +45,7 @@ button a {
 }
 
 .projetos button {
-  grid-column: -2 /-1;
+  grid-column: -3 /-1;
   position: relative;
   background: solid 5px transparent;
   font-weight: bold;
@@ -131,6 +131,7 @@ button:hover {
   text-align: center;
   text-decoration: none;
 }
+
 @media (max-width: 800px) {
   .projetos {
     grid-template-columns: 1fr;

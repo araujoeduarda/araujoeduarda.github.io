@@ -135,6 +135,7 @@ button:hover {
 @media (max-width: 800px) {
   .projetos {
     grid-template-columns: 1fr;
+    width: fit-content;
   }
 
   .experiencia {
@@ -165,8 +166,5 @@ button:hover {
   }
   .projeto-ano::before {
     content: "Ano: ";
-  }
-  .tecnologias-usadas {
-    display: none;
   }
 }

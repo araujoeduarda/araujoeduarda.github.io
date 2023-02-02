@@ -25,7 +25,7 @@
 .header a {
   border-radius: 10px;
 }
-.header a:hover {
+.header a:not(#inicial):hover {
   transform: scale(1.1);
   transition: 1s;
   background: linear-gradient(180deg, #b6f829 0%, #67dd0a 100%);

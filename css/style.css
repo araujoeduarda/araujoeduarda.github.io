@@ -4,34 +4,3 @@
 @import "./experiencia.css";
 @import "./formacao.css";
 @import "./footer.css";
-.curriculo {
-  background: #f9f9f9;
-  padding: 40px 20px;
-}
-
-.curriculo-container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.curriculo-texto {
-  font-size: 2.4rem;
-  color: #4d4d52;
-  margin-bottom: 20px;
-}
-
-
-.curriculo-info h3 {
-  font-size: 1.5rem;
-  color: #141414;
-}
-
-.curriculo-info ul {
-  padding-left: 20px;
-}
-
-.curriculo-info li {
-  font-size: 1rem;
-  color: #525252;
-  line-height: 1.5;
-}
